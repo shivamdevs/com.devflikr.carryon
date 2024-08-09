@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "228037316720",
+    "project_id": "devflikr-org-carryon",
+    "storage_bucket": "devflikr-org-carryon.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:228037316720:android:8443edec0bba67d69be4b5",
+        "android_client_info": {
+          "package_name": "com.devflikr.org.carryon"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "228037316720-le8ib4nhgk98j6ro72p5jc9dnegeb9oq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDoFbeNo8zh-GQxVc2ALTTD-4I1nmNg7yg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "228037316720-le8ib4nhgk98j6ro72p5jc9dnegeb9oq.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "228037316720-oquobuhl4blc9nb4ll4ko5liri5tv3bs.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.carryOn"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
